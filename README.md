@@ -33,6 +33,6 @@ Improvement would be made to capture from video and webcam.
 ### Credits
 
 https://github.com/albertofernandezvillan
-https://github.com/kurnianggoro/GSOC2017
-https://github.com/sacchitchadha
-https://github.com/tensorflowlagos
+<br>https://github.com/kurnianggoro/GSOC2017
+<br>https://github.com/sacchitchadha
+<br>https://github.com/tensorflowlagos
