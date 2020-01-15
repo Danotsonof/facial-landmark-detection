@@ -10,3 +10,27 @@ https://github.com/kurnianggoro/GSOC2017/raw/master/data/lbfmodel.yaml
 
 Also the model used for face detection can be found here:
 https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_alt2.xml
+
+Improvement would be made to capture from video and webcam.
+
+
+### Result Samples
+
+![Face Detection](face-detection.jpg)
+
+![Face Landmark Detection - 3](3-landmark-detections.jpg)
+
+![Landmark Detection](zoomed-in1.jpg)
+
+![Landmark Detection](zoomed-in2.jpg)
+
+![Landmark Detection](zoomed-in3.jpg)
+
+
+
+### Credits
+
+@albertofernandezvillan
+@kurnianggoro
+@sacchitchadha
+@tensorflowlagos
