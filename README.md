@@ -14,9 +14,11 @@ https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcas
 Improvement would be made to capture from video and webcam.
 
 
-### Result Samples
+## Result Samples
 
 ![Face Detection](face-detection.jpg)
+
+####Landmark Detection
 
 ![Face Landmark Detection - 3](3-landmark-detections.jpg)
 
@@ -29,8 +31,8 @@ Improvement would be made to capture from video and webcam.
 
 
 ### Credits
-
-@albertofernandezvillan
+[@VideoAmp/albertofernandezvillan](https://github.com/albertofernandezvillan)
+@
 @kurnianggoro
 @sacchitchadha
 @tensorflowlagos
