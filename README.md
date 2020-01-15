@@ -18,7 +18,7 @@ Improvement would be made to capture from video and webcam.
 
 ![Face Detection](face-detection.jpg)
 
-####Landmark Detection
+#### Landmark Detection
 
 ![Face Landmark Detection - 3](3-landmark-detections.jpg)
 
@@ -31,8 +31,8 @@ Improvement would be made to capture from video and webcam.
 
 
 ### Credits
-[@VideoAmp/albertofernandezvillan](https://github.com/albertofernandezvillan)
-@
-@kurnianggoro
-@sacchitchadha
-@tensorflowlagos
+
+https://github.com/albertofernandezvillan
+https://github.com/kurnianggoro/GSOC2017
+https://github.com/sacchitchadha
+https://github.com/tensorflowlagos
