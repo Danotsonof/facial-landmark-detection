@@ -62,9 +62,10 @@ else:
 
 # create an instance of the Facial landmark Detector with the model
 landmark_detector  = cv2.face.createFacemarkLBF()
-landmark_detector.loadModel(LBFmodel)
+landmark_detector.loadModel(LBFmodel_file)
 
 # get image from webcam
+print ("checking webcam for connection ...")
 webcam_cap = cv2.VideoCapture(0)
 
 while(True):
