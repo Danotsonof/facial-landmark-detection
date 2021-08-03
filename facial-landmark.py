@@ -87,7 +87,7 @@ while(True):
             for x,y in landmark[0]:
                 # display landmarks on "frame/image,"
                 # with blue colour in BGR and thickness 2
-                cv2.circle(frame, (x, y), 1, (255, 0, 0), 2)
+                cv2.circle(frame, (int(x), int(y)), 1, (255, 0, 0), 2)
 
     # save last instance of detected image
     cv2.imwrite('face-detect.jpg', frame)    
